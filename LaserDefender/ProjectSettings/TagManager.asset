@@ -14,10 +14,10 @@ TagManager:
   - 
   - 
   - PostProcessing
-  - 
-  - 
-  - 
-  - 
+  - Friendlies
+  - Enemies
+  - EnemyProjectiles
+  - FriendlyProjectiles
   - 
   - 
   - 
